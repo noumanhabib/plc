@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.footer {
+    width: 100%;
+    height: auto;
+    /*background-color: #315154;*/
+    padding: 50px;
+    color: white;
+}
+.footer .col-md-3 {
+    color: rgb(199, 199, 199);
+}
+.footer h3 {
+    color: white;
+}
